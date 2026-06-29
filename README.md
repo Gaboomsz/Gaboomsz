@@ -19,7 +19,6 @@ Currently seeking opportunities to contribute to impactful software projects whi
 - 🎓 SM Foundation Scholar
 - 💻 Software Developer @ AWS Cloud Clubs PUP
 - 🎨 UI/UX Designer specializing in Figma
-- 🌱 Currently learning Software Testing and Enterprise Software Development
 - 📍 Antipolo City, Philippines
 
 ---
