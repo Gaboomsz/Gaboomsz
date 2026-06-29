@@ -216,22 +216,7 @@ Responsibilities:
 # 📫 Connect With Me
 
 📧 Email:
-your.email@gmail.com
+gabrielandremagtanong@gmail.com
 
 💼 LinkedIn:
-https://linkedin.com/in/yourprofile
-
-🌐 Portfolio:
-(Add Portfolio)
-
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-
----
-
-> *"Building software that is functional, intuitive, and impactful."*
+https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/gabriel-andre-magtanong/
