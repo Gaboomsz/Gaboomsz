@@ -1,9 +1,5 @@
 # Hi, I'm Gabriel Andre Magtanong 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 Computer Science student at the **Polytechnic University of the Philippines (PUP)** passionate about **Full-Stack Web Development**, **UI/UX Design**, and **Enterprise Software Engineering**.
 
 I enjoy transforming UI/UX prototypes into scalable web applications using modern technologies while collaborating through industry-standard Git workflows.
