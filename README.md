@@ -89,10 +89,7 @@ A cloud-based enrollment management system developed for the Polytechnic Univers
 - Git Collaboration Workflow
 
 🔗 Repository:
-(Add Repository Link)
-
-🔗 Live Demo:
-(Add Live Demo)
+https://github.com/tzuyu10/G8-School-Enrollment-System
 
 ---
 
@@ -116,7 +113,7 @@ A high-fidelity UI/UX prototype designed for students, faculty, registrar, and a
 - Administrative Dashboard
 
 🔗 Figma Prototype:
-(Add Link)
+https://www.figma.com/proto/IgKfjKUwQM3jfS6bqTCu7I/SE-Group-2?node-id=218-21
 
 ---
 
@@ -141,8 +138,8 @@ Workshop on Computation: Theory and Practice (WCTP 2025)
 
 Published by Atlantis Press
 
-🔗 Repository:
-(Add Link)
+🔗 Website Link:
+https://bantay-pmt.org/
 
 ---
 
@@ -161,13 +158,11 @@ Learning platform developed for AWS Cloud Clubs PUP.
 - Interactive UI
 - Responsive Design
 
----
+🔗 Figma Prototype:
+https://www.figma.com/proto/IgKfjKUwQM3jfS6bqTCu7I/SE-Group-2?node-id=218-21
 
-## 📄 CertEval
-
-Certificate generation and evaluation platform designed for AWS Cloud Club events.
-
-Built using Figma.
+🔗 Website Link:
+https://sbd.awsccpup.cloud/
 
 ---
 
@@ -176,6 +171,20 @@ Built using Figma.
 Queue management system prototype designed to reduce waiting times for students and faculty.
 
 Built using Figma.
+
+🔗 Figma Prototype:
+https://www.figma.com/proto/aroncOrovX7rDXhiZIHB55/-GROUP-5--PickPUP---BSCS-3-5?node-id=277-2066&t=b2NeaeXOsUhE8Rir-1
+
+---
+
+## 📄 CertEval
+
+Certificate generation and evaluation platform designed for AWS Cloud Club events.
+
+Built using Figma.
+
+🔗 Figma Prototype:
+https://www.figma.com/proto/BwuP6IVzZ812K8ihn45Daz/AWSCCPUP---CERTEVAL?node-id=47-32&t=eTEtoD0wCRBsTjkc-1
 
 ---
 
