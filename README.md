@@ -11,7 +11,6 @@ Currently seeking opportunities to contribute to impactful software projects whi
 ## 📌 About Me
 
 - 🎓 BS Computer Science @ Polytechnic University of the Philippines
-- 🏅 Consistent Honors Lister
 - 🎓 SM Foundation Scholar
 - 💻 Software Developer @ AWS Cloud Clubs PUP
 - 🎨 UI/UX Designer specializing in Figma
