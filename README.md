@@ -1,6 +1,6 @@
 # Hi, I'm Gabriel Andre Magtanong 👋
 
-Computer Science student at the **Polytechnic University of the Philippines (PUP)** passionate about **Full-Stack Web Development**, **UI/UX Design**, and **Enterprise Software Engineering**.
+Computer Science student at the **Polytechnic University of the Philippines (PUP)** passionate about **UI/UX Design** and **Full-Stack Web Development**.
 
 I enjoy transforming UI/UX prototypes into scalable web applications using modern technologies while collaborating through industry-standard Git workflows.
 
